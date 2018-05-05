@@ -18,4 +18,6 @@ class Dog
       @@all.clear
   end
 
+  def
+
 end
